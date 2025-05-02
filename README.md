@@ -14,3 +14,6 @@ Una calculadora que calcula el interés simple dado el capital, la tasa de inter
 ```bash
 chmod +x simple-interest.sh
 ./simple-interest.sh
+
+
+## actualizacion parte dos
