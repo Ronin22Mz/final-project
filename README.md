@@ -1,16 +1,16 @@
-# Simple Interest Calculator
+# Calculadora de Interés Simple
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Una calculadora que calcula el interés simple dado el capital, la tasa de interés anual y el período de tiempo en años.
 
-## Input
-- p: principal amount  
-- t: time period in years  
-- r: annual rate of interest
+## Entrada
+- **p**: monto del capital  
+- **t**: período de tiempo en años  
+- **r**: tasa de interés anual
 
-## Output
-- simple interest = p * t * r
+## Salida
+- **interés simple = p * t * r**
 
-## How to Run
+## Cómo ejecutar
 ```bash
 chmod +x simple-interest.sh
 ./simple-interest.sh
